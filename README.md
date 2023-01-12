@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#going to doing stuff
+going to doing stuff
 
 <!--
 **lgammon/LGammon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
